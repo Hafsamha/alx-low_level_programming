@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
+ * A simple C program that prints a string
  *
  * Always 0 (Success)
  */
